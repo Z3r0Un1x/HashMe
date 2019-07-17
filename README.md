@@ -1,0 +1,2 @@
+# HashMe
+Multiple hashes computing
