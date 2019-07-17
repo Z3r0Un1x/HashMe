@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/priority-low-lightgrey.svg) 
-![](https://img.shields.io/badge/status-active-lightgrey.svg)
+![](https://img.shields.io/badge/status-active-green.svg)
 ![](https://img.shields.io/badge/release-v0.1-blue.svg)
 
 # Hash Me
