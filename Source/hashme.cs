@@ -16,7 +16,7 @@ namespace hashme
 
             if (args.ToString().Length == 0)
             {
-                Console.WriteLine("Usage: hashme.exe \"file.exe\"");
+                Console.WriteLine("Usage: hashme.exe \"path\\to\\file.exe\"");
                 goto Cleanup;
             }
 
@@ -69,7 +69,6 @@ namespace hashme
             }
             catch (Exception)
             {
-
                 throw;
             }
         }
@@ -89,7 +88,6 @@ namespace hashme
             }
             catch (Exception)
             {
-
                 throw;
             }
         }
