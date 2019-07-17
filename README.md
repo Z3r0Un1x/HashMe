@@ -14,12 +14,12 @@ And you should see the expected output, which is the `file.exe`'s hashes.
 ## FAQs
 **Q:** *Has this tool been already made a lot?*
 
-**A:** Yes, I just want to make myself a version as my journey of learning C# (this also the first project I do with C#, though).
+Yes, I just want to make myself a version as my journey of learning C# (this also the first project I do with C#, though).
 
 **Q:** *Will there be any GUI version?*
 
-**A:** Maybe, if I am not ~~lazy~~ busy with other projects.
+Maybe, if I am not ~~lazy~~ busy with other projects.
 
 **Q:** *I want to contribute!*
 
-**A:** Of course, open an issue or make a pull request if you have any idea.
+Of course, open an issue or make a pull request if you have any idea.
